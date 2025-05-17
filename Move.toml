@@ -1,0 +1,16 @@
+[package]
+name = "debayudh"
+version = "1.0.0"
+authors = []
+
+[addresses]
+debayudh = "0d13406410157652ebe454863f01c501fc62f417617f65461523392da10efc41"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
