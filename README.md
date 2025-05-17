@@ -1,0 +1,3 @@
+On chain Bidding DApp for Suppliers
+
+Address = 0x9907b7cf3ab663d11aa45101b705c03dcbb46040bd1f2935f5cf0723245dcb34
